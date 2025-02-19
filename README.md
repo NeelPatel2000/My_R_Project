@@ -100,7 +100,8 @@ Report p-values, F-statistic, R-squared, and interpret group differences.
 
 
 ## 🛠 Skills
-R, SQL
+MSSQL, Excel, Tableau, R ......
+
 
 
 
