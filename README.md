@@ -8,7 +8,9 @@ This repository contains R scripts and reports for various biostatistical analys
 
 ## Query 1: Descriptive Statistics and Visualization
 
-Objective: Perform descriptive statistical analysis and visualization on birth weight data (TGRAMS, TOUNCES) to examine distribution, skewness, and differences based on smoking status.
+Objective: 
+
+Perform descriptive statistical analysis and visualization on birth weight data (TGRAMS, TOUNCES) to examine distribution, skewness, and differences based on smoking status.
 
 Tasks:
 
@@ -23,7 +25,9 @@ Provide a statistical summary and interpretation of the results.
 
 ## Query 2: Probability and Normal Distribution Calculations
 
-Objective: Perform probability calculations using the NCBIRTH800 dataset.
+Objective: 
+
+Perform probability calculations using the NCBIRTH800 dataset.
 
 Tasks:
 
@@ -40,7 +44,9 @@ Compute confidence intervals using the empirical rule.
 
 ## Query 3: Confidence Interval Estimations
 
-Objective: Estimate confidence intervals using a simple random sample (SRS) of 50 from NCBIRTH800.
+Objective: 
+
+Estimate confidence intervals using a simple random sample (SRS) of 50 from NCBIRTH800.
 
 Tasks:
 
@@ -60,7 +66,9 @@ Low birth weight proportions for married vs. unmarried mothers.
 
 ##Query 4: Hypothesis Testing on Hemoglobin Data (HEMOGLOB)
 
-Objective: Compare hemoglobin levels between anemic and healthy children using hypothesis testing.
+Objective: 
+
+Compare hemoglobin levels between anemic and healthy children using hypothesis testing.
 
 Tasks:
 
@@ -74,7 +82,9 @@ Interpret p-values, confidence intervals, and assumptions of the test.
 
 ## Query 5: One-Way ANOVA and Tukey’s HSD Analysis (RBCDATA)
 
-Objective: Analyze differences in RBC data across three groups (GOOD, FAIR, POOR) using ANOVA.
+Objective: 
+
+Analyze differences in RBC data across three groups (GOOD, FAIR, POOR) using ANOVA.
 
 Tasks:
 
